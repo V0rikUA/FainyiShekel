@@ -25,7 +25,12 @@
 
 ### 🌐 User-friendly Web Interface  
 - 🟩 Intuitive interface for managing schedules and tracking hours.  
-- 🟩 Real-time analytics and visual summaries.  
+- 🟩 Real-time analytics and visual summaries. 
+
+### 💰 Tax and Deduction Calculations  
+- 🟩 Calculate **taxes** based on your country's legislation.  
+- 🟩 Account for **pension contributions** and other **savings programs**.  
+- 🟩 Include mandatory deductions such as **social insurance** or other required contributions.   
 
 ---
 
