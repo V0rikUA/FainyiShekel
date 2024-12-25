@@ -8,24 +8,24 @@
 ## 🌟 Key Features (TODO)
 
 ### 🧮 Salary Calculation  
-- ✅ Automatically calculate salary based on **working hours** and **hourly rates**.  
-- ✅ Support for various **currencies**.  
+- 🟩 Automatically calculate salary based on **working hours** and **hourly rates**.  
+- 🟩 Support for various **currencies**.  
 
 ### ⏰ Custom Overtime Rates  
-- ✅ Add custom overtime rules for weekends, holidays, or special cases.  
-- ✅ Flexible rate options: fixed or percentage-based.  
+- 🟩 Add custom overtime rules for weekends, holidays, or special cases.  
+- 🟩 Flexible rate options: fixed or percentage-based.  
 
 ### 🌓 Shift Schedules  
-- ✅ Day, evening, and night shift support with separate rates.  
-- ✅ Assign custom rates to specific shifts for precise calculations.  
+- 🟩 Day, evening, and night shift support with separate rates.  
+- 🟩 Assign custom rates to specific shifts for precise calculations.  
 
 ### 📊 Exportable Summary Reports  
-- ✅ Generate summary reports of work hours and earnings.  
-- ✅ Export reports to **Excel** or other compatible formats.  
+- 🟩 Generate summary reports of work hours and earnings.  
+- 🟩 Export reports to **Excel** or other compatible formats.  
 
 ### 🌐 User-friendly Web Interface  
-- ✅ Intuitive interface for managing schedules and tracking hours.  
-- ✅ Real-time analytics and visual summaries.  
+- 🟩 Intuitive interface for managing schedules and tracking hours.  
+- 🟩 Real-time analytics and visual summaries.  
 
 ---
 
